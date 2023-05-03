@@ -15,7 +15,7 @@ global.packname = "MADE BY ♥️"
 global.author = " From 𓆩𝙄𝙏ÀÇ𝙃𝙄 ✨🍂              𓆪"
 global.OwnerName = "Itachiii♾️"
 global.BotSourceCode = "SAY PLEASE THEN I'LL TELL YOU 😂🌝" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = ""  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
